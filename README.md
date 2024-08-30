@@ -14,3 +14,15 @@ Project Lead: Kamal Singh
 Product listing feature manage by Ji young
 Product shopping cart feature manage by Sing Mukesh
 Product customer serviece feature manage by Madan Singh
+
+Feature Branch: feature-customer-reviews :-
+                                            The Customer Reviews feature allows users to provide feedback and share their experiences about products they have purchased.
+                                            This feature enhances user engagement and helps other customers make informed purchasing decisions. 
+
+Feature Branch: feature-product-listing :- 
+                                            The Product Listing feature enables users to browse and search for products on the CraftyCommerce website. This feature provides a
+                                            comprehensive view of available products and helps users find items that match their needs.
+
+Feature Branch: feature-shopping-cart :- 
+                                            The Shopping Cart feature allows users to add products to their cart and manage their selections before proceeding to checkout. This feature 
+                                            is essential for a smooth purchasing process and ensures users can review and modify their orders.
